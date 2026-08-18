@@ -1,0 +1,24 @@
+name: NguSpawnerPlugins
+version: 1.0.0
+main: com.nguspawner.NguSpawnerPlugins
+api-version: '1.21'
+
+author: Ngu
+description: NguSpawnerPlugins
+
+commands:
+  nguspawner:
+    description: NguSpawnerPlugins command
+    usage: /nguspawner <help|give|list|reload>
+    aliases:
+      - ngusp
+
+permissions:
+  nguspawner.use:
+    default: true
+
+  nguspawner.give:
+    default: op
+
+  nguspawner.admin:
+    default: op

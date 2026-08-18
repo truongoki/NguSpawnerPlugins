@@ -1,0 +1,249 @@
+prefix: "&8[&bNguSpawner&8] "
+
+settings:
+  max-give: 64
+
+spawners:
+
+  zombie:
+    enabled: true
+    entity: ZOMBIE
+    name: "&aZombie Spawner"
+    lore:
+      - "&7Virtual Spawner"
+      - ""
+      - "&7Type: &fZombie"
+
+  skeleton:
+    enabled: true
+    entity: SKELETON
+    name: "&fSkeleton Spawner"
+    lore:
+      - "&7Virtual Spawner"
+      - ""
+      - "&7Type: &fSkeleton"
+
+  creeper:
+    enabled: true
+    entity: CREEPER
+    name: "&aCreeper Spawner"
+    lore:
+      - "&7Virtual Spawner"
+      - ""
+      - "&7Type: &fCreeper"
+
+  spider:
+    enabled: true
+    entity: SPIDER
+    name: "&cSpider Spawner"
+    lore:
+      - "&7Virtual Spawner"
+      - ""
+      - "&7Type: &fSpider"
+
+  cave_spider:
+    enabled: true
+    entity: CAVE_SPIDER
+    name: "&cCave Spider Spawner"
+    lore:
+      - "&7Virtual Spawner"
+      - ""
+      - "&7Type: &fCave Spider"
+
+  enderman:
+    enabled: true
+    entity: ENDERMAN
+    name: "&5Enderman Spawner"
+    lore:
+      - "&7Virtual Spawner"
+      - ""
+      - "&7Type: &fEnderman"
+
+  blaze:
+    enabled: true
+    entity: BLAZE
+    name: "&6Blaze Spawner"
+    lore:
+      - "&7Virtual Spawner"
+      - ""
+      - "&7Type: &fBlaze"
+
+  witch:
+    enabled: true
+    entity: WITCH
+    name: "&5Witch Spawner"
+    lore:
+      - "&7Virtual Spawner"
+      - ""
+      - "&7Type: &fWitch"
+
+  slime:
+    enabled: true
+    entity: SLIME
+    name: "&aSlime Spawner"
+    lore:
+      - "&7Virtual Spawner"
+      - ""
+      - "&7Type: &fSlime"
+
+  iron_golem:
+    enabled: true
+    entity: IRON_GOLEM
+    name: "&fIron Golem Spawner"
+    lore:
+      - "&7Virtual Spawner"
+      - ""
+      - "&7Type: &fIron Golem"
+
+  pig:
+    enabled: true
+    entity: PIG
+    name: "&dPig Spawner"
+    lore:
+      - "&7Virtual Spawner"
+      - ""
+      - "&7Type: &fPig"
+
+  cow:
+    enabled: true
+    entity: COW
+    name: "&6Cow Spawner"
+    lore:
+      - "&7Virtual Spawner"
+      - ""
+      - "&7Type: &fCow"
+
+  sheep:
+    enabled: true
+    entity: SHEEP
+    name: "&fSheep Spawner"
+    lore:
+      - "&7Virtual Spawner"
+      - ""
+      - "&7Type: &fSheep"
+
+  chicken:
+    enabled: true
+    entity: CHICKEN
+    name: "&fChicken Spawner"
+    lore:
+      - "&7Virtual Spawner"
+      - ""
+      - "&7Type: &fChicken"
+
+  rabbit:
+    enabled: true
+    entity: RABBIT
+    name: "&fRabbit Spawner"
+    lore:
+      - "&7Virtual Spawner"
+      - ""
+      - "&7Type: &fRabbit"
+
+  guardian:
+    enabled: true
+    entity: GUARDIAN
+    name: "&bGuardian Spawner"
+    lore:
+      - "&7Virtual Spawner"
+      - ""
+      - "&7Type: &fGuardian"
+
+  drowned:
+    enabled: true
+    entity: DROWNED
+    name: "&3Drowned Spawner"
+    lore:
+      - "&7Virtual Spawner"
+      - ""
+      - "&7Type: &fDrowned"
+
+  husk:
+    enabled: true
+    entity: HUSK
+    name: "&eHusk Spawner"
+    lore:
+      - "&7Virtual Spawner"
+      - ""
+      - "&7Type: &fHusk"
+
+  stray:
+    enabled: true
+    entity: STRAY
+    name: "&7Stray Spawner"
+    lore:
+      - "&7Virtual Spawner"
+      - ""
+      - "&7Type: &fStray"
+
+  phantom:
+    enabled: true
+    entity: PHANTOM
+    name: "&bPhantom Spawner"
+    lore:
+      - "&7Virtual Spawner"
+      - ""
+      - "&7Type: &fPhantom"
+
+  wither_skeleton:
+    enabled: true
+    entity: WITHER_SKELETON
+    name: "&8Wither Skeleton Spawner"
+    lore:
+      - "&7Virtual Spawner"
+      - ""
+      - "&7Type: &fWither Skeleton"
+
+  piglin:
+    enabled: true
+    entity: PIGLIN
+    name: "&6Piglin Spawner"
+    lore:
+      - "&7Virtual Spawner"
+      - ""
+      - "&7Type: &fPiglin"
+
+  hoglin:
+    enabled: true
+    entity: HOGLIN
+    name: "&4Hoglin Spawner"
+    lore:
+      - "&7Virtual Spawner"
+      - ""
+      - "&7Type: &fHoglin"
+
+  ghast:
+    enabled: true
+    entity: GHAST
+    name: "&fGhast Spawner"
+    lore:
+      - "&7Virtual Spawner"
+      - ""
+      - "&7Type: &fGhast"
+
+  shulker:
+    enabled: true
+    entity: SHULKER
+    name: "&dShulker Spawner"
+    lore:
+      - "&7Virtual Spawner"
+      - ""
+      - "&7Type: &fShulker"
+
+  bee:
+    enabled: true
+    entity: BEE
+    name: "&6Bee Spawner"
+    lore:
+      - "&7Virtual Spawner"
+      - ""
+      - "&7Type: &fBee"
+
+  turtle:
+    enabled: true
+    entity: TURTLE
+    name: "&aTurtle Spawner"
+    lore:
+      - "&7Virtual Spawner"
+      - ""
+      - "&7Type: &fTurtle"
